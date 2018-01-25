@@ -68,9 +68,9 @@ div.sidebar ul.vbar li a.super {
 	border-bottom: 2px solid black;
 }
 
-/*div.sidebar ul.vbar li a.sub {
+div.sidebar ul.vbar ul.sub li a {
 	font-style: italic;
-}*/
+}
 
 div.sidebar ul.vbar li a:hover:not(.active) {
 	background-color: #555;
